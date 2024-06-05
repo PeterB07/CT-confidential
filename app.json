@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Tesser",
+    "slug": "Tesser",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "config" :
+       {
+        "firebase" :  {
+          "apiKey": "AIzaSyDzBzAlY7JPpU2wvem4B-MtnJkOVfI-srA",
+          "authDomain": "tesser-c06d1.firebaseapp.com",
+          "projectId": "tesser-c06d1",
+          "storageBucket": "tesser-c06d1.appspot.com",
+          "messagingSenderId": "553295659788",
+          "appId": "1:553295659788:web:0f762f4cda91d8af73bf29",
+          "measurementId": "G-Q83NG1JMN4"
+        }
+        
+
+        
+
+      }
+
+    }
+  }
+}
